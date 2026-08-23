@@ -7,12 +7,9 @@ thinking rather than a feature.
 
 | Skill | What it does | Install |
 |---|---|---|
+| [cart-cop](https://github.com/jainulabudeenm/cart-cop) | Makes you defend a purchase before it approves one | `/plugin marketplace add jainulabudeenm/cart-cop` |
+| [job-recon](https://github.com/jainulabudeenm/job-recon) | Investigates a company before you interview, from employee chatter rather than PR | `/plugin marketplace add jainulabudeenm/job-recon` |
 | [mobile-screen-eval](https://github.com/jainulabudeenm/mobile-screen-eval) | Audits a mobile screen against Nielsen's 10 heuristics, WCAG 2.1 AA, and iOS HIG plus Material guidelines | `/plugin marketplace add jainulabudeenm/mobile-screen-eval` |
-
-### Currently building
-
-- A behavioral purchase screener that makes you defend a buy before it approves one
-- A company and job-description recon tool that reads employee chatter instead of company PR
 
 ### Also here
 
