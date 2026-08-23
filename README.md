@@ -21,4 +21,7 @@ thinking rather than a feature.
 
 ### Elsewhere
 
+[Portfolio](https://www.jainulabudeen.com) for the design work: case studies, and the AI
+interventions I have shipped at work.
+
 Most of what I learn ends up on LinkedIn before it ends up here.
