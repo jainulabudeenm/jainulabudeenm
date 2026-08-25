@@ -22,8 +22,9 @@ npx <name>
 Add `--project` to that second one to install into the current repo instead of your home
 directory, so you can commit it and share it with a team.
 
-One exception: `what-to-watch` was taken on npm, so that one is `npx @jainulabudeenm/what-to-watch`.
-The plugin route uses the plain name like the rest.
+Two of them are scoped on npm, because the short names were already taken or blocked:
+`npx @jainulabudeenm/what-to-watch` and `npx @jainulabudeenm/vault-keeper`. The plugin route uses
+the short name for all of them.
 
 | Skill | What it does |
 |---|---|
