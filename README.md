@@ -31,7 +31,7 @@ the short name for all of them.
 |---|---|
 | [cart-cop](https://github.com/jainulabudeenm/cart-cop) | Makes you defend a purchase before it approves one |
 | [company-recon](https://github.com/jainulabudeenm/company-recon) | Investigates a company before you interview, from employee chatter rather than PR |
-| [consumer-dispute](https://github.com/jainulabudeenm/consumer-dispute) | Runs a refund dispute by email, from the first ask to the consumer court, and asks you before every offer and every new step |
+| [complaint-chaser](https://github.com/jainulabudeenm/complaint-chaser) | Chases a complaint against a company by email, from the first ask to the consumer court, and asks you before every offer and every new step |
 | [mobile-screen-eval](https://github.com/jainulabudeenm/mobile-screen-eval) | Audits a mobile screen against Nielsen's 10 heuristics, WCAG 2.1 AA, and iOS HIG plus Material guidelines |
 | [name-cop](https://github.com/jainulabudeenm/name-cop) | Kills your weak name candidates instead of ranking them, using Alexandra Watkins' SMILE and SCRATCH frameworks |
 | [resume-tailor](https://github.com/jainulabudeenm/resume-tailor) | Rebuilds a resume for one posting and refuses any claim your evidence ledger cannot back, then checks the finished PDF by reading what a parser actually receives |
