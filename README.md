@@ -38,7 +38,7 @@ the short name for all of them.
 | [shariah-screen](https://github.com/jainulabudeenm/shariah-screen) | Screens a stock or fund for Shariah compliance against the standard you follow, with every ratio sourced and your scholar's final word at the end |
 | [sidekick](https://github.com/jainulabudeenm/sidekick) | Helps you learn by making you recall, explain and do, and keeps a record of what you know and what is shaky |
 | [tool-librarian](https://github.com/jainulabudeenm/tool-librarian) | Keeps a library of the tools you already vetted, clustered by the state of mind you reach for them in |
-| [vault-keeper](https://github.com/jainulabudeenm/vault-keeper) | Three skills for a markdown vault: capture a note, save a chat, and groom the indexes and links so you never hand-maintain them |
+| [vault-keeper](https://github.com/jainulabudeenm/vault-keeper) | Four skills for a markdown vault: capture a note, save a chat, file a whole day's dump into the right places, and groom the indexes and links so you never hand-maintain them |
 | [what-to-watch](https://github.com/jainulabudeenm/what-to-watch) | Recommends from your own watch history rather than what is trending, with importers for Letterboxd, MUST and Trakt |
 
 ### Also here
