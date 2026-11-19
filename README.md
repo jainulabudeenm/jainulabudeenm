@@ -22,9 +22,9 @@ npx <name>
 Add `--project` to that second one to install into the current repo instead of your home
 directory, so you can commit it and share it with a team.
 
-Three of them are scoped on npm, because the short names were already taken or blocked:
-`npx @jainulabudeenm/what-to-watch`, `npx @jainulabudeenm/vault-keeper` and
-`npx @jainulabudeenm/sidekick`. The plugin route uses
+Four of them are scoped on npm, because the short names were already taken or blocked:
+`npx @jainulabudeenm/what-to-watch`, `npx @jainulabudeenm/vault-keeper`,
+`npx @jainulabudeenm/sidekick` and `npx @jainulabudeenm/fine-print`. The plugin route uses
 the short name for all of them.
 
 | Skill | What it does |
